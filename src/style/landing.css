@@ -1,0 +1,19 @@
+body {
+    background-color: #ffc847;
+}
+
+img {
+    width: 50%;
+    margin-left: 25%;
+}
+
+.center {
+    margin-top: 5%;
+    text-align: center;
+}
+
+#soon {
+    color: #540200;
+    font-family:sans-serif;
+    letter-spacing: 3px;
+}
